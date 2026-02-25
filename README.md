@@ -37,11 +37,9 @@
   </a>
 </p>
 
----
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=samrat-chauhan24&theme=radical)
 ![](https://komarev.com/ghpvc/?username=samrat-chauhan24)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samrat-chauhan24&theme=radical)
 
 
 
