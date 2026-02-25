@@ -3,8 +3,6 @@
 💻 Aspiring Software Developer  
 🚀 DSA (Java) | Full Stack Development | GenAI (Python) | n8n Automation  
 
----
-
 ## 🧠 About Me
 - 🔭 Currently working on improving my problem-solving skills with DSA  
 - 🌱 Learning Full Stack Development and Generative AI  
@@ -43,11 +41,8 @@
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samrat-chauhan24&theme=radical)
----
-
-## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=samrat-chauhan24)
 
----
+
 
 ⭐ *Building in public and learning every day*
