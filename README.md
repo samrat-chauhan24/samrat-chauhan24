@@ -38,7 +38,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=samrat-chauhan24)
+![](https://komarev.com/ghpvc/?username=samrat-chauhan24)<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samrat-chauhan24&theme=radical)
 
 
