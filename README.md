@@ -11,29 +11,27 @@
 - ⚙️ Building automation workflows using n8n  
 - 🎯 Goal: Become a well-rounded developer and build impactful systems  
 
----
 
 ## 🚀 Projects
 - 🔹 **Leet-O-Tracker** → Multi-user DSA tracker with AI email reports  
 - 🔹 **SpecsMaster** → Telegram bot for instant device specs using AI & automation  
 
----
 
 ## 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,git,github" />
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/samchauh4n">
+  <a href="https://linkedin.com/in/samratchauhan">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/samchauh4n">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/samrat-chauhan24">
