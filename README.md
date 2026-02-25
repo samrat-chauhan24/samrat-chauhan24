@@ -28,17 +28,18 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/samratchauhan" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
-</a>
-<a href="https://x.com/samchauh4n" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="30" />
-</a>
-<a href="https://leetcode.com/u/samrat-chauhan24" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5974/5974636.png" height="30" width="30" />
-</a>
+  <a href="https://linkedin.com/in/samchauh4n">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/samchauh4n">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/samrat-chauhan24">
+    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974636.png" height="30" width="30" />
+  </a>
 </p>
-
 ---
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samrat-chauhan24&theme=radical)
